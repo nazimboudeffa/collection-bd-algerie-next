@@ -15,7 +15,7 @@ export default function Home() {
               Couvertures de bandes dessinées algériennes
             </h1>
             <p className="text-(--muted) max-w-2xl text-base leading-8 sm:text-lg">
-              Cette page rassemble les couvertures présentes dans le dossier public/covers et les affiche sous forme de catalogue avec image, titre, description, année et auteur.
+              Cette page rassemble les couvertures d&apos;une sélection de bandes dessinées algériennes et les affiche sous forme de catalogue avec image, titre, description, année et auteur.
             </p>
           </div>
 
@@ -29,7 +29,7 @@ export default function Home() {
               </p>
             </div>
             <p className="text-(--muted) text-sm leading-7">
-              Les donnees de chaque couverture sont centralisees dans une liste dediee pour pouvoir etre completees manuellement album par album.
+              Les données de chaque couverture sont centralisées dans une liste dédiée pour pouvoir être complétées manuellement album par album.
             </p>
           </div>
         </div>

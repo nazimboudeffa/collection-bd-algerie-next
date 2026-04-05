@@ -9,6 +9,24 @@ export type Cover = {
 
 export const covers: Cover[] = [
   {
+    slug: "cover_moustache_v",
+    title: "Moustache et les Belkacem",
+    description:
+      "Couverture d'album mise en avant dans la collection numerique du site.",
+    year: "1968",
+    author: "Slim",
+    imageSrc: "/covers/cover_moustache_v.png",
+  },
+  {
+    slug: "Couv_120184",
+    title: "Zid ya Bouzid 1",
+    description:
+      "Couverture d'album mise en avant dans la collection numerique du site.",
+    year: "1969",
+    author: "Slim",
+    imageSrc: "/covers/Couv_120184.jpg",
+  },
+  {
     slug: "30625962681",
     title: "Zid ya Bouzid 2",
     description:
@@ -16,6 +34,33 @@ export const covers: Cover[] = [
     year: "Annee inconnue",
     author: "Slim",
     imageSrc: "/covers/30625962681.jpg",
+  },
+{
+    slug: "Couv_229130",
+    title: "Zid ya Bouzid 1&2 - La Réédition",
+    description:
+      "Couverture d'album mise en avant dans la collection numerique du site.",
+    year: "Annee inconnue",
+    author: "Slim",
+    imageSrc: "/covers/Couv_229130.jpg",
+  },
+{
+    slug: "cover-157604-w350",
+    title: "Zid ya Bouzid 3",
+    description:
+      "Couverture d'album mise en avant dans la collection numerique du site.",
+    year: "Annee inconnue",
+    author: "Slim",
+    imageSrc: "/covers/cover-157604-w350.jpg",
+  },
+{
+    slug: "s-l1200",
+    title: "BAC - La Boite à Chic",
+    description:
+      "Couverture d'album mise en avant dans la collection numerique du site.",
+    year: "Annee inconnue",
+    author: "Slim",
+    imageSrc: "/covers/s-l1200.jpg",
   },
   {
     slug: "bouzpresid_cover",
@@ -54,33 +99,6 @@ export const covers: Cover[] = [
     imageSrc: "/covers/couverture_lemonde_v.png",
   },
   {
-    slug: "Couv_120184",
-    title: "Zid ya Bouzid 1",
-    description:
-      "Couverture d'album mise en avant dans la collection numerique du site.",
-    year: "Annee inconnue",
-    author: "Slim",
-    imageSrc: "/covers/Couv_120184.jpg",
-  },
-  {
-    slug: "Couv_229130",
-    title: "Zid ya Bouzid 1&2 - La Réédition",
-    description:
-      "Couverture d'album mise en avant dans la collection numerique du site.",
-    year: "Annee inconnue",
-    author: "Slim",
-    imageSrc: "/covers/Couv_229130.jpg",
-  },
-  {
-    slug: "cover-157604-w350",
-    title: "Zid ya Bouzid 3",
-    description:
-      "Couverture d'album mise en avant dans la collection numerique du site.",
-    year: "Annee inconnue",
-    author: "Slim",
-    imageSrc: "/covers/cover-157604-w350.jpg",
-  },
-  {
     slug: "cover_dz2",
     title: "DZ2 Le Mur",
     description:
@@ -99,15 +117,6 @@ export const covers: Cover[] = [
     imageSrc: "/covers/cover_loubia.png",
   },
   {
-    slug: "cover_moustache_v",
-    title: "Moustache et les Belkacem",
-    description:
-      "Couverture d'album mise en avant dans la collection numerique du site.",
-    year: "1968",
-    author: "Slim",
-    imageSrc: "/covers/cover_moustache_v.png",
-  },
-  {
     slug: "lalgeriecommesi",
     title: "L'Algerie comme si vous y étiez",
     description:
@@ -115,15 +124,6 @@ export const covers: Cover[] = [
     year: "Annee inconnue",
     author: "Slim",
     imageSrc: "/covers/lalgeriecommesi.png",
-  },
-  {
-    slug: "s-l1200",
-    title: "BAC - La Boite à Chic",
-    description:
-      "Couverture d'album mise en avant dans la collection numerique du site.",
-    year: "Annee inconnue",
-    author: "Slim",
-    imageSrc: "/covers/s-l1200.jpg",
   },
   {
     slug: "tvb_pub",
