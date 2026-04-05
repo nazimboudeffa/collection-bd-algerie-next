@@ -72,13 +72,13 @@ export const covers: Cover[] = [
     imageSrc: "/covers/bouzpresid_cover.png",
   },
   {
-    slug: "couverture_ainterdi_v",
-    title: "Aïnterdit",
+    slug: "walou_v",
+    title: "Walou à l'Horizon",
     description:
       "Couverture d'album mise en avant dans la collection numerique du site.",
     year: "Annee inconnue",
     author: "Slim",
-    imageSrc: "/covers/couverture_ainterdi_v.png",
+    imageSrc: "/covers/walou_v.png",
   },
   {
     slug: "couverture_iletaitunefoisrien",
@@ -88,6 +88,15 @@ export const covers: Cover[] = [
     year: "Annee inconnue",
     author: "Slim",
     imageSrc: "/covers/couverture_iletaitunefoisrien.png",
+  },
+  {
+    slug: "couverture_ainterdi_v",
+    title: "Aïnterdit",
+    description:
+      "Couverture d'album mise en avant dans la collection numerique du site.",
+    year: "Annee inconnue",
+    author: "Slim",
+    imageSrc: "/covers/couverture_ainterdi_v.png",
   },
   {
     slug: "couverture_lemonde_v",
@@ -133,15 +142,6 @@ export const covers: Cover[] = [
     year: "Annee inconnue",
     author: "Slim",
     imageSrc: "/covers/tvb_pub.png",
-  },
-  {
-    slug: "walou_v",
-    title: "Walou à l'Horizon",
-    description:
-      "Couverture d'album mise en avant dans la collection numerique du site.",
-    year: "Annee inconnue",
-    author: "Slim",
-    imageSrc: "/covers/walou_v.png",
   },
   {
     slug: "wonderful",
