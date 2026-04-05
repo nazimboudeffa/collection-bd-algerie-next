@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1200" viewBox="0 0 900 1200" role="img" aria-labelledby="title desc">
+  <title id="title">Couverture non disponible</title>
+  <desc id="desc">Image de remplacement indiquant que la couverture n'est pas disponible.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f3eadf" />
+      <stop offset="100%" stop-color="#dccab8" />
+    </linearGradient>
+  </defs>
+  <rect width="900" height="1200" fill="url(#bg)" />
+  <rect x="46" y="46" width="808" height="1108" rx="28" fill="#fff8ef" stroke="#b5532f" stroke-width="8" stroke-dasharray="18 14" />
+  <g fill="#6a564d" font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <text x="450" y="500" font-size="52" font-weight="700" letter-spacing="1">
+      COUVERTURE
+    </text>
+    <text x="450" y="570" font-size="52" font-weight="700" letter-spacing="1">
+      NON DISPONIBLE
+    </text>
+    <text x="450" y="650" font-size="28" font-weight="400">
+      Collection BD Algerie
+    </text>
+  </g>
+</svg>
